@@ -1,5 +1,4 @@
 
-![Demo of the Project](demo2.gif)
 
 # MVC Application for Employee and Department Management
 
