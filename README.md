@@ -1,3 +1,6 @@
+
+![Demo of the Project](demo2.gif)
+
 # MVC Application for Employee and Department Management
 
 This repository contains the source code for an ASP.NET Core MVC application designed to manage employees and departments. The application incorporates user authentication, role-based access control, and client-server validation to ensure robust and secure operations. Comprehensive documentation is provided to assist developers in understanding and utilizing the application effectively.
